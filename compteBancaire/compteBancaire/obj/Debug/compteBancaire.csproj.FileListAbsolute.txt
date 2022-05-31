@@ -1,0 +1,3 @@
+C:\Users\Nabila\source\repos\compteBancaire\compteBancaire\obj\Debug\compteBancaire.csproj.AssemblyReference.cache
+C:\Users\Nabila\source\repos\compteBancaire\compteBancaire\obj\Debug\compteBancaire.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nabila\source\repos\compteBancaire\compteBancaire\obj\Debug\compteBancaire.csproj.CoreCompileInputs.cache
